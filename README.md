@@ -1,12 +1,14 @@
-# adil_fyp
-
-A new Flutter project.
+# A quiz application in flutter
+A quiz application in Flutter that use firebase on backend.
+# Screenshots
+<img src="ss/7.jpg"> <img src="ss/6.jpg">
+<img src="ss/1.jpg"> <img src="ss/5.jpg">
+<img src="ss/4.jpg"> <img src="ss/3.jpg">
+<img src="ss/2.jpg">
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
